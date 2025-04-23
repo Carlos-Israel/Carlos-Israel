@@ -1,6 +1,6 @@
 ### Carlos Israel L. Costa
 
-BSc. student in Computer Engineering at Federal University of Pará (UFPA). Interested in Computer Networks, Electronics and Automation.
+BSc. student in Computer Engineering at Federal University of Pará (UFPA). Interested in Computer Networks, Electronics and Telecommunication.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_carlos_israel/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-israel-a4b869311/) 
 ---
